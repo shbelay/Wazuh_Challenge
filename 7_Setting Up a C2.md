@@ -360,6 +360,7 @@ Wazuh Challenge
 ├── Part 3 – Generate + Read Telemetry
 ├── Part 4 – Build Your SOC Dashboard
 ├── Part 5 – FIM + Your First Detection
+├── Part 6 – Active Response
 │
 └── Setting Up C2
     ├── Kali Linux
