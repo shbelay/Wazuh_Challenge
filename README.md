@@ -4,7 +4,9 @@
 
 ## Project Overview
 
-The [**Wazuh Challenge**](https://www.youtube.com/watch?v=duEibRGYMHo&list=PLHmErnFy_2zk) from MyDFIR is an eight-module cybersecurity home lab focused on building and operating a Security Operations Center (SOC) monitoring environment. I deployed Wazuh, onboarded Windows and Ubuntu endpoints, generated and investigated telemetry, built security dashboards and custom detections, simulated post-compromise activity, and integrated automated alert enrichment and response.
+The Wazuh Challenge from MyDFIR is an eight-module cybersecurity home lab focused on building and operating a Security Operations Center (SOC) monitoring environment. I deployed Wazuh, onboarded Windows and Ubuntu endpoints, generated and investigated telemetry, built security dashboards and custom detections, simulated post-compromise activity, and integrated automated alert enrichment and response.
+
+YouTube Link to MyDFIR Wazuh Challenge - https://www.youtube.com/watch?v=duEibRGYMHo&list=PLHmErnFy_2zk
 
 ## Tools and Technologies
 
